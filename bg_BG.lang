@@ -1,0 +1,77 @@
+item.petGhast.name=Дух Лубимец
+item.petWither.name=Wither Лубимец
+item.petCreeper.name=Creeper Лубимец
+item.petEnderman.name=Enderman Лубимец
+item.petIronGolem.name=Iron Golem Лубимец
+item.petSnowGolem.name=Snow Golem Лубимец
+item.petSpider.name=Spider Лубимец
+item.petMagmaCube.name=Magma Cube Лубимец
+item.petBlaze.name=Blaze Лубимец
+
+item.petSheep.name=Sheep Лубимец
+item.petCow.name=Cow Лубимец
+item.petChicken.name=Chicken Лубимец
+item.petPig.name=Pig Лубимец
+item.petSquid.name=Squid Лубимец
+item.petOcelot.name=Ocelot Лубимец
+
+item.petFurnace.name=Furnace Лубимец
+item.petEnchantingTable.name=Enchanting Table Лубимец
+item.petCraftingTable.name=Crafting Table Лубимец
+item.petChest.name=Chest э
+item.petDoubleChest.name=Double Chest Лубимец
+item.petBed.name=Bed Лубимец
+item.petJukebox.name=Jukebox Лубимец
+item.petAnvil.name=Anvil Лубимец
+item.petBrewingStand.name=Brewing Stand Лубимец
+item.petNetherPortal.name=Nether Portal Лубимец
+
+item.petPingot.name=Pingot Лубимец
+item.petMickerson.name=Mickerson
+item.petPurpliciousCow.name=Purplicious Cow Лубимец
+item.petQuantumCrystalMonster.name=Quantum Crystal Monster Лубимец
+item.petBanana.name=Banana Лубимец
+
+item.petCloud.name=Cloud Лубимец
+item.petBlackHole.name=Black Hole Лубимец
+item.petPufferfish.name=Pufferfish Лубимец
+item.petSlime.name=Slime Лубимец
+
+item.petShield.name=Shield Лубимец
+item.petMoon.name=Moon Лубимец
+item.petHeart.name=Heart Лубимец
+item.petDubstep.name=Dubstep Лубимец
+item.petSponge.name=Sponge Лубимец
+item.petBanana.name=Banana Лубимец
+item.petBlaze.name=Blaze Лубимец
+item.petEnderChest.name=Ender Chest Лубимец
+item.petMooshroom.name=Mooshroom Лубимец
+item.petLoot.name=Loot Лубимец
+item.pingot.finds=Pingot has found 
+
+item.diamondNugget.name=Diamond Nugget
+item.obsidianNugget.name=Obsidian Nugget
+item.coalNugget.name=Coal Nugget
+item.emeraldNugget.name=Emerald Nugget
+item.ironNugget.name=Iron Nugget
+item.enderNugget.name=Ender Nugget
+item.lapisNugget.name=Lapis Nugget
+
+tile.cloudblock.name=Блок Облак
+tile.cloudspawn.name=Spawner Облак
+tile.sandblock.name=Sand Block
+tile.sandspawn.name=Sand Spawner
+tile.stoneblock.name=Stone Block
+tile.stonespawn.name=Stone Spawner
+tile.bed.notHere=You cannot sleep here
+
+entity.InventoryPets.MiniQuantumBlaze.name=Mini Quantum Blaze
+entity.InventoryPets.MiniQuantumEnderman.name=Mini Quantum Enderman
+
+container.petnamer=Pet Namer
+gui.accept=Accept
+
+item.netherportal.noreturn=Cannot find last return point, returning to last known Spawn point
+item.chestpet.toomany=You can't use more than one Chest Pet at a time in the hotbar
+item.doublechestpet.toomany=You can't use more than one Double Chest Pet at a time in the hotbar
+inventorypets.update.download=["Update to the latest version at [",{"text":"CurseForge","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to show latest files","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/229380-inventory-pets/files"}},"]"]
